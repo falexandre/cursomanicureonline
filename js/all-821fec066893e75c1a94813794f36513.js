@@ -1,1 +1,0 @@
-function toogleMenu(){var e=document.getElementById("menu");"none"===e.style.display?e.style.display="block":e.style.display="none"}
